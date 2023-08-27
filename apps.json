@@ -13,7 +13,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Gino",
       "contact": {
-        "web": "https://github.com/SpotCompiled"
+        "web": ""
       },
       "version": "8.8.64",
       "versionDate": "2023-1-9",
@@ -41,12 +41,12 @@
           "version": "8.8.64",
           "date": "2023-1-1",
           "localizedDescription": "ciao",
-          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+          "downloadURL": "https://github.com/dearteo/repo/releases/download/v8.8.64/com.spotify.client-8.8.64.ipa",
           "size": 47954000,
           "minOSVersion": "13.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+      "downloadURL": "https://github.com/dearteo/repo/releases/download/v8.8.64/com.spotify.client-8.8.64.ipa",
       "localizedDescription": "ciao",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
