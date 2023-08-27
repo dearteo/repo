@@ -41,12 +41,12 @@
           "version": "8.8.64",
           "date": "2023-1-1",
           "localizedDescription": "ciao",
-          "downloadURL": "https://github.com/dearteo/repo/releases/download/v8.8.64/com.spotify.client-8.8.64.ipa",
+          "downloadURL": "https://github.com/dearteo/repo/releases/download/8.8.64/com.spotify.client-8.8.64.ipa",
           "size": 47954000,
           "minOSVersion": "13.0"
         }
       ],
-      "downloadURL": "https://github.com/dearteo/repo/releases/download/v8.8.64/com.spotify.client-8.8.64.ipa",
+      "downloadURL": "https://github.com/dearteo/repo/releases/download/8.8.64/com.spotify.client-8.8.64.ipa",
       "localizedDescription": "ciao",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
