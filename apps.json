@@ -1,0 +1,159 @@
+{
+  "name": "Gino Repo",
+  "identifier": "com.gino.repo",
+  "sourceURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/AltStore%20Repo.json",
+  "website": "https://github.com/SpotCompiled",
+  "META": {
+    "repoName": "Gino Repo",
+    "repoIcon": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png"
+  },
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Gino",
+      "contact": {
+        "web": "https://github.com/SpotCompiled"
+      },
+      "version": "8.8.64",
+      "versionDate": "2023-1-9",
+      "size": 47954000,
+      "minOSVersion": "13.0",
+      "changelog": "ciao",
+      "versionDescription": "ciao",
+      "information": [
+        {
+          "item": "Spotify",
+          "version": "v8.6.42",
+          "authors": "Spotify AB",
+          "url": "https://www.spotify.com"
+        },
+        {
+          "item": "Spotilife",
+          "version": "v1.8",
+          "authors": "julioverne",
+          "url": "https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife"
+        }
+      ],
+      "subtitle": "Spotify cracckato ihihihihi",
+      "versions": [
+        {
+          "version": "8.8.64",
+          "date": "2023-1-1",
+          "localizedDescription": "ciao",
+          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+          "size": 47954000,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+      "localizedDescription": "ciao",
+      "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
+      "tintColor": "1ed760",
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.carplay-audio"
+          },
+          {
+            "name": "com.apple.developer.playable-content"
+          },
+          {
+            "name": "keychain-access-groups"
+          },
+          {
+            "name": "com.apple.developer.networking.multicast"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          },
+          {
+            "name": "com.apple.developer.networking.wifi-info"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "camera",
+            "usageDescription": "This lets you scan Spotify Codes."
+          },
+          {
+            "name": "photos",
+            "usageDescription": "This lets you save and select images to and from your Photo Library."
+          },
+          {
+            "name": "music",
+            "usageDescription": "This will let you play your imported music on Spotify."
+          },
+          {
+            "name": "motion",
+            "usageDescription": "Used to control your tempo for Spotify Running."
+          },
+          {
+            "name": "microphone",
+            "usageDescription": "This lets you control Spotify using your voice."
+          },
+          {
+            "name": "bluetooth",
+            "usageDescription": "This lets you use Spotify with external accessories."
+          },
+          {
+            "name": "network",
+            "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+          },
+          {
+            "name": "faceid",
+            "usageDescription": "This lets you set access restrictions using Face ID."
+          }
+        ]
+      },
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "music",
+          "usageDescription": "This will let you play your imported music on Spotify."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "network",
+          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
+        }
+      ],
+      "screenshotURLs": [],
+      "beta": false
+    }
+  ]
+}
